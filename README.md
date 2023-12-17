@@ -34,7 +34,6 @@ Modern Levels Allows you to switch between 3 Rank Card Generators:
 
 
 # Features
-![](https://media.discordapp.net/attachments/831180817064656907/958887123900067910/Modern_Levels_4.png?width=998&height=285)
 <ul>
     <li>Levelling System</li>
     <li>Paginated Leaderboards</li>
